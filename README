@@ -1,0 +1,16 @@
+This is an experimental OAuth client
+written in Python for use with the Sinatra
+OAuth Provider:
+
+  http://github.com/eddanger/sinatra-oauth-provider/tree/master
+
+It's derived from Yahoo's Fire Eagle OAuth
+tutorial.
+
+Modify the SERVER to point to your server.
+
+Once authenticated, it doesn't do much more than GET requests.
+
+Cheers,
+
+ - Jim
